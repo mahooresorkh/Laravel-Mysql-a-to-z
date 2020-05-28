@@ -33,4 +33,4 @@ php artisan storage:link
 8- setup redux Dev Tools in Chrome or Firefox
 
 
-the website address is https://a-to-z.test
+the website address is a-to-z.test
